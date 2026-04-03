@@ -37,3 +37,9 @@ node_modules/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
+
+## Tests
+src/test/
+**/src/test/**
+**/surefire-reports/
+**/failsafe-reports/
